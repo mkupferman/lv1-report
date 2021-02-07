@@ -19,7 +19,10 @@ As of this release, it supports the export of routing/patching information (Inpu
 
 ## Installation
 
+[Here is a video](https://www.youtube.com/watch?v=tgtNM7jWzR4) demonstrating the installation and usage of this script.
+
     sh build.sh
+
     # in Linux/macOS/etc:
     source venv/bin/activate
 
